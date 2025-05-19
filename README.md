@@ -28,22 +28,22 @@ To draw a UML diagram for a library management system**
 
 # DIAGRAMS:
 # Usecase Diagram:
-![Screenshot 2025-05-15 224515](https://github.com/user-attachments/assets/1a3dba9d-4295-4451-8802-4dc210b63ad2)
+![Screenshot 2025-05-19 104707](https://github.com/user-attachments/assets/e7e60f83-5942-4d4a-b539-c6134277ddc0)
 
 # Class Diagram:
-![Screenshot 2025-05-15 224624](https://github.com/user-attachments/assets/16f4440a-85ee-48bb-aad6-558b73400831)
+![Screenshot 2025-05-19 105014](https://github.com/user-attachments/assets/7d34ce31-5440-47ef-a816-dd209c0959e6)
 
 # Activity Diagram:
-![Screenshot 2025-05-15 224721](https://github.com/user-attachments/assets/51d61a4e-d476-4057-a827-cff173d44195)
+![Screenshot 2025-05-19 105203](https://github.com/user-attachments/assets/0c330ca7-53bd-4a71-9854-8e9cd593a61b)
 
 # Communication Diagram:
-![Screenshot 2025-05-15 225420](https://github.com/user-attachments/assets/6741625d-0c00-4476-8ab9-9acd05fdcada)
+![Screenshot 2025-05-19 105300](https://github.com/user-attachments/assets/521e7ae9-c0ea-4611-9c08-25851526adb1)
 
 # Package Diagram:
-![Screenshot 2025-05-15 225456](https://github.com/user-attachments/assets/5567c85f-8650-4907-8b0e-071ddfeb8986)
+![Screenshot 2025-05-19 105338](https://github.com/user-attachments/assets/65e2da8b-4f79-4a25-a108-2d3c77bcbda2)
 
 # Sequence Diagram:
-![Screenshot 2025-05-15 225619](https://github.com/user-attachments/assets/29a1482d-b5b0-46d4-99fe-d2694224a7c8)
+![Screenshot 2025-05-19 105432](https://github.com/user-attachments/assets/64b2ee7f-ebdc-4a98-a554-5824ae8d9a4c)
 
 # RESULT:
  Thus, the UML Diagrams for a Library Management System has been drawn and verified.
